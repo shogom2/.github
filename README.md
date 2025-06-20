@@ -4,6 +4,7 @@ The objective is to foster a community-driven, standards-based open ecosystem fo
 CoHDI enables data center operators to realize the benefits of cost efficiency, high availability, and sustainability through a disaggregated computing system.
 However, a gap still exists between Kubernetes and CoDHI, making it challenging to achieve more dynamic composability within the Kubernetes cloud-native environment.
 The DDS project and Composable Resource Operator project aim to bridge this gap by collaborating with the Dynamic Resource Allocation in Node, Autoscaler, and Scheduler projects.
+![image](https://github.com/user-attachments/assets/1109c4f9-a37a-427e-b065-bb4726252135)
 
 # CoHDI Project Goals
 - Create a community-driven, standards-based open ecosystem for composable resource technologies
@@ -16,8 +17,6 @@ A data-centric infrastructure is emerging in the AI era.
 New infrastructure elements in cloud data center services and in the IOWN Global Forum’s Data-Centric Infrastructure as a Service (DCIaaS) demand more dynamic composability with various types of PCIe-connected devices, including GPUs, DPUs/IPUs/Smart NICs, FPGAs, NVMe, and CXL memory.
 These components must be dynamically composed and decomposed into CPU hosts running Kubernetes nodes via PCIe/CXL switch fabrics, in order to enable flexible combinations of host server scale-up/scale-down and application scale-out/scale-in within a Kubernetes cluster.
 CoHDI provides dynamic device scaling capabilities on each Kubernetes node.
-
-![IOWN2025-InfraDDSreadme](https://github.com/user-attachments/assets/f737661c-579f-4cbd-9c2e-d1c23de7f60d)
 
 # How To Contribute
 This project welcomes contributions and suggestions. We are happy to have the Community involved via submission of Issues and Pull Requests (with substantive content or even just fixes). We are hoping for the documents, test framework, etc. to become a community process with active engagement. PRs can be reviewed by by any number of people, and a maintainer may accept.
