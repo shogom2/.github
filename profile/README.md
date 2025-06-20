@@ -4,4 +4,5 @@ CoHDI enables data center operators to realize the benefits of cost efficiency, 
 However, a gap still exists between Kubernetes and CoDHI, making it challenging to achieve more dynamic composability within the Kubernetes cloud-native environment.
 The DDS project and Composable Resource Operator project aim to bridge this gap by collaborating with the Dynamic Resource Allocation, sig-node, sig-autoscaling and sig-scheduler projects.
 
-![image](https://github.com/user-attachments/assets/76cafc15-0409-4094-9a8a-bb3f1f52b00d)
+![image](https://github.com/user-attachments/assets/d051630b-00dd-43f9-aef7-9177ae73bb57)
+
