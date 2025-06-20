@@ -1,9 +1,9 @@
 # CoHDI - Composable Hardware Disaggregated Infrastructure: Vision statement
 
 The objective is to foster a community-driven, standards-based open ecosystem for next-generation architectures and frameworks built on [Composable Hardware Disaggregated Infrastructure](https://github.com/CoHDI/README.md/blob/main/SPEC.md) (CoHDI, pronounced "Cody"), also known as [Composable Disaggregated Infrastructure technology](https://github.com/InfraDDS/README.md/blob/main/SPEC.md).
-CoHDI enables data center operators to realize the benefits of cost efficiency, high availability, and sustainability through a disaggregated computing system.
-However, a gap still exists between Kubernetes and CoDHI, making it challenging to achieve more dynamic composability within the Kubernetes cloud-native environment.
-The DDS project and Composable Resource Operator project aim to bridge this gap by collaborating with the Dynamic Resource Allocation in Node, Autoscaler, and Scheduler projects.
+CoHDI enables data center operators to realize the benefits of cost efficiency, high availability, and sustainability through a disaggregated computing system. 
+However, a gap still exists between Kubernetes and CoDHI, making it challenging to achieve more dynamic composability within the Kubernetes cloud-native environment. 
+The DDS project and Composable Resource Operator project aim to bridge this gap by collaborating with Dynamic Resource Allocation, sig-node, sig-autoscaling and sig-scheduling projects.
 
 ![image](https://github.com/user-attachments/assets/b74707a8-5a48-46c8-93fe-945f9df13646)
 
