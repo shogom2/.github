@@ -2,6 +2,6 @@
 The objective is to foster a community-driven, standards-based open ecosystem for next-generation architectures and frameworks built on Composable Hardware Disaggregated Infrastructure ([CoDHI](https://github.com/CoHDI/.github/blob/main/README.md), pronounced "Cody"), also known as Composable Disaggregated Infrastructure.  
 CoHDI enables data center operators to realize the benefits of cost efficiency, high availability, and sustainability through a disaggregated computing system.
 However, a gap still exists between Kubernetes and CoDHI, making it challenging to achieve more dynamic composability within the Kubernetes cloud-native environment.
-The DDS project and Composable Resource Operator project aim to bridge this gap by collaborating with the Dynamic Resource Allocation, sig-node, sig-autoscaler, and sig-scheduler projects.
+The DDS project and Composable Resource Operator project aim to bridge this gap by collaborating with the Dynamic Resource Allocation, sig-node, sig-autoscaling and sig-scheduler projects.
 
 ![image](https://github.com/user-attachments/assets/76cafc15-0409-4094-9a8a-bb3f1f52b00d)
