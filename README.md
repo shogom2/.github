@@ -4,7 +4,9 @@ The objective is to foster a community-driven, standards-based open ecosystem fo
 CoHDI enables data center operators to realize the benefits of cost efficiency, high availability, and sustainability through a disaggregated computing system.
 However, a gap still exists between Kubernetes and CoDHI, making it challenging to achieve more dynamic composability within the Kubernetes cloud-native environment.
 The DDS project and Composable Resource Operator project aim to bridge this gap by collaborating with the Dynamic Resource Allocation in Node, Autoscaler, and Scheduler projects.
-![image](https://github.com/user-attachments/assets/1109c4f9-a37a-427e-b065-bb4726252135)
+
+![image](https://github.com/user-attachments/assets/b74707a8-5a48-46c8-93fe-945f9df13646)
+
 
 # CoHDI Project Goals
 - Create a community-driven, standards-based open ecosystem for composable resource technologies
