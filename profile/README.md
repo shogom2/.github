@@ -14,3 +14,5 @@ The CoHDI system consists of a hardware-disaggregated resource pool and the Comp
 [Dynamic Device Scaler](https://github.com/InfraDDS/dynamic-device-scaler)
 
 [Customer Resource Operator](https://github.com/InfraDDS/composable-resource-operator)
+
+[Polises](https://github.com/InfraDDS/Policies)
