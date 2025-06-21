@@ -7,5 +7,7 @@ The DDS project and Composable Resource Operator project aim to bridge this gap 
 ![image](https://github.com/user-attachments/assets/d051630b-00dd-43f9-aef7-9177ae73bb57)
 
 [Composable Dra Driver](https://github.com/InfraDDS/composable-dra-driver)
+
 [Dynamic Device Scaler](https://github.com/InfraDDS/dynamic-device-scaler)
+
 [Customer Resource Operator](https://github.com/InfraDDS/composable-resource-operator)
