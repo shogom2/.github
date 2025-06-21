@@ -5,7 +5,7 @@ However, a gap still exists between Kubernetes and CoDHI, making it challenging 
 The DDS project and Composable Resource Operator project aim to bridge this gap by collaborating with Dynamic Resource Allocation, sig-node, sig-autoscaling and sig-scheduling projects.
 
 ## How it works
-CoHDI system is composed of hardware resource pool and Composable manager (CoDHI manager) software. In the hardware resource pool, all components are connected to PCIe or CXL switches. The CoHDI manager controls the switches to create composed bare metal/hardware servers by software definition. It has Composable Resource API and Composable Resource Operator or Kubernetes may call the API. 
+CoHDI system is composed of hardware resource pool and Composable manager (CoDHI manager) software. In the hardware disaggregated resource pool, all components are connected to PCIe or CXL switches. The CoHDI manager controls the switches to create composed bare metal/hardware servers by software definition. It has Composable Resource API and Composable Resource Operator or Kubernetes may call the API.
 
 ![image](https://github.com/user-attachments/assets/d051630b-00dd-43f9-aef7-9177ae73bb57)
 
