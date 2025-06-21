@@ -7,18 +7,18 @@ The DDS project and Composable Resource Operator project aim to bridge this gap 
 
 ![image](https://github.com/user-attachments/assets/b74707a8-5a48-46c8-93fe-945f9df13646)
 
-
-# CoHDI Project Goals
+# Project Goals
 - Create a community-driven, standards-based open ecosystem for composable resource technologies
 - Develop a vendor-agnostic framework and architecture for composable resource software stacks
 - Reuse existing APIs or define a new set of common APIs for composable resource technologies as needed
 - Provide implementation examples to validate the architectures/APIs
 
-# CoHDI Project Backgrounder
-A data-centric infrastructure is emerging in the AI era.
-New infrastructure elements in cloud data center services and in the IOWN Global Forum’s Data-Centric Infrastructure as a Service (DCIaaS) demand more dynamic composability with various types of PCIe-connected devices, including GPUs, DPUs/IPUs/Smart NICs, FPGAs, NVMe, and CXL memory.
-These components must be dynamically composed and decomposed into CPU hosts running Kubernetes nodes via PCIe/CXL switch fabrics, in order to enable flexible combinations of host server scale-up/scale-down and application scale-out/scale-in within a Kubernetes cluster.
-CoHDI provides dynamic device scaling capabilities on each Kubernetes node.
+# Project Backgrounder
+Generative AI has ushered in a new era of artificial intelligence, significantly increasing power consumption compared to previous generations. As a result, many workloads now require data-centric infrastructure amid rapid hardware evolution.
+Composable Disaggregated Infrastructure (CoHDI) is a key subset of data-centric infrastructure, designed to reduce power consumption by leveraging heterogeneous, composable resources. This approach enables workloads to run on the most appropriate resources, allocated in a timely and efficient manner.
+New infrastructure elements in cloud data center services, as well as in the IOWN Global Forum’s Data-Centric Infrastructure as a Service (DCIaaS), demand more dynamic composability with various types of PCIe-connected devices—including GPUs, DPUs/IPUs/SmartNICs, FPGAs, NVMe, and CXL memory—in order to enable power-saving operations.
+These components must be dynamically composed and decomposed into CPU hosts running Kubernetes nodes via PCIe/CXL switch fabrics. This allows for flexible scaling of host servers (scale-up/scale-down) and applications (scale-out/scale-in) within a Kubernetes cluster.
+CoHDI system provides dynamic device scaling capabilities for each Kubernetes node.
 
 # How To Contribute
 This project welcomes contributions and suggestions. We are happy to have the Community involved via submission of Issues and Pull Requests (with substantive content or even just fixes). We are hoping for the documents, test framework, etc. to become a community process with active engagement. PRs can be reviewed by by any number of people, and a maintainer may accept.
