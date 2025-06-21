@@ -1,3 +1,11 @@
+# What is CoHDI
+Composable Hardware Disaggregated Infrastructure (CoHDI) is an innovative server architecture that allows flexible reconfiguration of server components and on-demand provisioning of servers with the required specifications.
+
+Traditionally, deploying a large number of GPUs required provisioning multiple physical servers, often leading to inefficient use of CPU and memory resources. CDI addresses this by disaggregating server components and connecting them via PCIe, CXL, or optical switches to form a shared resource pool. These switches enable the software-defined composition of custom bare-metal servers by connecting only the necessary components.
+
+This architecture—referred to as composed bare metal—aims to deliver both high performance and energy efficiency by dynamically adjusting server configurations to match workload requirements.
+![スクリーンショット 2025-06-21 22 22 31](https://github.com/user-attachments/assets/cecb3c05-409d-49a9-8ab0-b75ca0590cb3)
+
 # CoHDI project: Vision statement
 
 The objective is to foster a community-driven, standards-based open ecosystem for next-generation architectures and frameworks built on Composable Hardware Disaggregated Infrastructure (CoHDI, pronounced "Cody"), also known as [Composable Disaggregated Infrastructure technology](https://github.com/InfraDDS/README.md/blob/main/SPEC.md).
