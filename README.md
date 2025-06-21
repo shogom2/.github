@@ -1,4 +1,4 @@
-# CoHDI - Composable Hardware Disaggregated Infrastructure: Vision statement
+# CoHDI project: Vision statement
 
 The objective is to foster a community-driven, standards-based open ecosystem for next-generation architectures and frameworks built on Composable Hardware Disaggregated Infrastructure (CoHDI, pronounced "Cody"), also known as [Composable Disaggregated Infrastructure technology](https://github.com/InfraDDS/README.md/blob/main/SPEC.md).
 CoHDI enables data center operators to realize the benefits of cost efficiency, high availability, and sustainability through a disaggregated computing system. 
