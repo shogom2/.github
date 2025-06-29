@@ -9,6 +9,8 @@ The CoHDI system consists of a hardware-disaggregated resource pool and the Comp
 
 ![image](https://github.com/user-attachments/assets/d051630b-00dd-43f9-aef7-9177ae73bb57)
 
+![how cohdi works](https://raw.githubusercontent.com/shogom2/.github/test/profile/how_cohdi_works.gif)
+
 [Composable DRA Driver](https://github.com/InfraDDS/composable-dra-driver)
 
 [Dynamic Device Scaler](https://github.com/InfraDDS/dynamic-device-scaler)
@@ -16,3 +18,4 @@ The CoHDI system consists of a hardware-disaggregated resource pool and the Comp
 [Customer Resource Operator](https://github.com/InfraDDS/composable-resource-operator)
 
 [Policies](https://github.com/InfraDDS/Policies)
+
